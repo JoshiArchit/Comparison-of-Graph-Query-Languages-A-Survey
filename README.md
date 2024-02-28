@@ -1,4 +1,4 @@
-# Comparison-of-Graph-Query-Languages-A-Survey
+# Comparison of Graph Query Languages A Survey
 Term Project, CSCI724 - Advanced Database Skills : NoSQL/NewSQL <br>
 Fall 2023, Rochester Institute of Technology
 
